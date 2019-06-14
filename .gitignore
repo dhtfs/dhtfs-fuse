@@ -1,0 +1,13 @@
+.vscode
+*.o
+*.tar.xz
+aclocal.m4
+autom4te.cache
+build-aux
+config.log
+config.status
+configure
+libtool
+Makefile
+Makefile.in
+m4
