@@ -15,6 +15,9 @@ In Ubuntu, it can be installed from the PPA: https://launchpad.net/~michal-rataj
 ## Installation
 
 $ autoreconf -i
+
 $ configure
+
 $ make
+
 $ sudo make install
